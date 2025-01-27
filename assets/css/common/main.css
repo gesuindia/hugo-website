@@ -41,6 +41,14 @@
     color: var(--darkcolor);
 }
 
+
+.social-icons a {
+    padding: 5px; /* Smaller padding */
+}
+.social-icons {
+    gap: 1.5rem; /* Control spacing between icons */
+}
+
 code {
     direction: ltr;
 }
