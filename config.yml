@@ -67,9 +67,10 @@ params:
           imageHeight: 160
           buttons:
             - name: CV
-              url: "https://drive.google.com/file/d/1WB0IBcVUXzPJRGtC3kWmf0EUBUJ2ij7A/view?usp=sharing"
-              params:
-              external: true
+              url: cv.pdf
+              #   "https://drive.google.com/file/d/1WB0IBcVUXzPJRGtC3kWmf0EUBUJ2ij7A/view?usp=sharing"
+              # params:
+              # external: true
           # buttons:
           #   - name: CV
           #     url: cv.pdf
