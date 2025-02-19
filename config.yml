@@ -53,7 +53,12 @@ params:
     profileMode:
           enabled: true
           title: Gesu India
-          subtitle: ""
+          subtitle: |
+                  Hey there! I'm a computer science researcher passionate about <u>Equitable AI</u>, <u>Human-computer Interaction</u>, and <u>Accessibility</u>. Right now, I'm soon completing my PhD at <a href="https://www.swansea.ac.uk/computational-foundry/" target="_blank">Computational Foundry, Swansea Uni</a>, with the support of my amazing supervisors: 
+                  <a href="https://www.swansea.ac.uk/staff/matt.jones/" target="_blank">Dr. Matt Jones</a>, 
+                  <a href="https://www.swansea.ac.uk/staff/s.n.w.robinson/" target="_blank">Dr. Simon Robinson</a>, 
+                  <a href="https://www.swansea.ac.uk/staff/j.pearson/" target="_blank">Dr. Jennifer Pearson</a>, and 
+                  <a href="https://www.microsoft.com/en-us/research/people/cecilym/" target="_blank">Dr. Cecily Morrison</a>.
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
