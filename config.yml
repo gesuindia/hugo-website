@@ -65,9 +65,9 @@ params:
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
-          # buttons:
-          #   - name: Papers
-          #     url: papers/
+          buttons:
+            - name: CV
+              url: cv.pdf
           #   - name: Courses
           #     url: courses/
           #   - name: Data
@@ -81,8 +81,8 @@ params:
           #   - name: Blog
           #     url: 
     socialIcons:
-        - name: CV
-          url: cv.pdf
+        # - name: CV
+        #   url: cv.pdf
         - name: Email
           url: mailto:gesu.india@swansea.ac.uk
         # - name: Zoom
