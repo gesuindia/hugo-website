@@ -1,0 +1,6 @@
+baseURL = "https://www.gesuindia.com/"
+languageCode = "en-us"
+title = "Gesu India"
+
+[params]
+  description = "Gesu India's professional website"
