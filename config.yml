@@ -42,7 +42,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["cv", "projects"]
+    MainSections: ["cv"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -71,6 +71,8 @@ params:
               #   "https://drive.google.com/file/d/1WB0IBcVUXzPJRGtC3kWmf0EUBUJ2ij7A/view?usp=sharing"
               # params:
               # external: true
+            # - name: Projects
+          #     url: courses/
           # buttons:
           #   - name: CV
           #     url: cv.pdf
