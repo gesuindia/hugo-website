@@ -6,8 +6,8 @@ enableInlineShortcodes: true
 enableRobotsTXT: true
 
 # Remove or update taxonomies if not needed
-taxonomies:
-    tag: tags
+# taxonomies:
+#     tag: tags
 
 menu:
     # Uncomment or update main menu items if needed, for example:
