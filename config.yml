@@ -45,13 +45,15 @@ params:
           title: Gesu India
           subtitle: |
             Hello, I’m a computer science researcher interested in <b>Equitable AI</b>, <b>Human-Computer Interaction</b>, and <b>Accessibility</b>. 
-            Currently, I’m in my final year of a PhD in Computer Science at <a href="https://www.swansea.ac.uk/computational-foundry/">Computational Foundry</a>, Swansea University. 
-            I work with my fantastic advisors: <u><a href="https://www.swansea.ac.uk/staff/matt.jones/">Dr. Matt Jones</a></u>, 
-            <u><a href="https://www.swansea.ac.uk/staff/s.n.w.robinson/">Dr. Simon Robinson</a></u>, <u><a href="https://www.swansea.ac.uk/staff/j.pearson/">Dr. Jennifer Pearson</a></u>, and 
-            <u><a href="https://www.microsoft.com/en-us/research/people/cecilym/">Dr. Cecily Morrison</a></u> (Microsoft Research, Cambridge). 
-            My PhD thesis explores “disability-first approaches to AI dataset collection in low-resource communities,” 
-            and is funded by <a href="https://epsrc.ukri.org/">EPSRC</a> and <a href="https://www.microsoft.com/en-us/research/">Microsoft Research, Cambridge</a>. 
-            I’m always excited to discuss new ideas (and currently exploring full-time roles!), so feel free to reach out if you'd like to chat about my work.
+            Currently, I’m in my final year of a PhD in Computer Science at <a href="https://www.swansea.ac.uk/computational-foundry/">Computational Foundry</a>, Swansea University, 
+            with my fantastic supervisors— <a href="https://www.swansea.ac.uk/staff/matt.jones/"><u>Dr. Matt Jones</u></a>, 
+            <a href="https://www.swansea.ac.uk/staff/s.n.w.robinson/"><u>Dr. Simon Robinson</u></a>, <a href="https://www.swansea.ac.uk/staff/j.pearson/"><u>Dr. Jennifer Pearson</u></a>, and 
+            <a href="https://www.microsoft.com/en-us/research/people/cecilym/"><u>Dr. Cecily Morrison</u></a> (Microsoft Research, Cambridge). 
+            My research focuses on “disability-first approaches to AI dataset collection in low-resource communities,” funded by <a href="https://epsrc.ukri.org/">EPSRC</a> and <a href="https://www.microsoft.com/en-us/research/">Microsoft Research, Cambridge</a>. 
+            If you’d like to chat about my work, feel free to reach out—I’m always excited about new ideas! 
+
+            <b>I’m also on the job market starting May 2025!</b>
+
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
